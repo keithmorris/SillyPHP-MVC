@@ -1,0 +1,73 @@
+/*
+-----------------------------------------------------------
+	Globals
+-----------------------------------------------------------
+*/
+
+body {
+	background: #9fddea;
+}
+
+p {
+	color: #666;
+	font-size: 16px;
+}
+
+.shadow {
+  -moz-box-shadow:    0px 0px 50px 0px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0px 0px 50px 0px rgba(0,0,0,.3);
+  box-shadow:         0px 0px 50px 0px rgba(0,0,0,.3);
+}
+
+code {
+	border: 1px #ccc solid;
+	background: #eee;
+	padding: 2px 5px;
+}
+
+/*
+-----------------------------------------------------------
+	Header
+-----------------------------------------------------------
+*/
+header h1 {
+	margin: 0;
+}
+header h2 {
+	font-style: italic;
+	color: #AAA;
+	font-size: 1.4em;
+}
+
+.banner img {
+  -moz-box-shadow:    0px 0px 20px 0px rgba(0,0,0,.15);
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,.15);
+  box-shadow:         0px 0px 20px 0px rgba(0,0,0,.15);	
+}
+/*
+-----------------------------------------------------------
+	Container
+-----------------------------------------------------------
+*/
+.container_12 {
+	background: white;
+	padding-top: 20px;
+}
+
+.content {
+	margin: 20px 0;
+}
+
+.content p {
+	margin: 0 10px 20px;
+}
+/*
+-----------------------------------------------------------
+	footer
+-----------------------------------------------------------
+*/
+footer {
+	border-top: 1px #ccc solid;
+	padding: 30px 0;
+	margin: 30px 0;
+}
